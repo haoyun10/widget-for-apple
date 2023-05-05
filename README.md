@@ -1,0 +1,6 @@
+### calender and reminder
+下载scriptable
+把js文件导入scriptable
+用快捷方式创建自动化
+关闭calendar的时候运行calendar_reminder
+关闭reminder的时候运行reminder_calendar
